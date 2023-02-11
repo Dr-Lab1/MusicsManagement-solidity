@@ -1,7 +1,7 @@
 # MusicsManagement-solidity
 
 
-  Les contenus essentiels sont dans la branche *master*
+    Les contenus essentiels sont dans la branche *master*
   
 ___
 
